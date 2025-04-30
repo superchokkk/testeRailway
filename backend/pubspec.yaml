@@ -9,6 +9,7 @@ environment:
 dependencies:
   shelf: ^1.4.0
   shelf_router: ^1.1.0
+  postgres: ^2.4.0
 
 dev_dependencies:
   http: ^1.1.0
